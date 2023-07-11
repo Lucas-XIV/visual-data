@@ -1,2 +1,2 @@
 # visual-data
-Some data analysis projects
+A project involving data analysis and visualization.
